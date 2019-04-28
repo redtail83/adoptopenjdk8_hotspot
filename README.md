@@ -1,0 +1,1 @@
+# adoptopenjdk8_hotspot
