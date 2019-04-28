@@ -1,0 +1,4 @@
+---
+# vars file for adoptopenjdk8_hotspot
+site_url: https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download
+jdk_version: 8u212
