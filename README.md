@@ -1,7 +1,7 @@
 Ansible Role: AdoptOpenJDK 8 HotSpot
 =========
 
-Install AdoptOpenJDK 8 HotSpot for Linux.
+Install AdoptOpenJDK 8 HotSpot for CentOS and Ubuntu linux.
 
 Requirements
 ------------
@@ -28,7 +28,7 @@ None.
 Example Playbook
 ----------------
 
-CentOS 7:
+Both CentOS 7 and Ubuntu 16.04:
 
     - hosts: servers
       roles:
